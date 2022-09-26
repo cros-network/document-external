@@ -1,0 +1,3 @@
+# Cros Governance Roadmap
+
+The bodies involved in governance must work in the long-term interests of Cros rather than for their interests. They must actively participate in the voting process. Additionally, all Cros Governance Council members must secure computing resources that are greater than the platform requirements and stake a set amount of CROS, either their own or from third parties. Cros Network Inc. will play several roles in governance related matters throughout the initial development phase to ensure seamless platform development and stabilization. In the future, however, other bodies will gradually take greater roles in the decision making process, and they will have the right to participate independently.
