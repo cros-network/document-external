@@ -29,7 +29,6 @@
 * [💰 $CRS Tokenomics](usdcrs-tokenomics/README.md)
   * [Token Utility](usdcrs-tokenomics/token-utility.md)
   * [Distribution](usdcrs-tokenomics/distribution.md)
-  * [Unit of Payment](usdcrs-tokenomics/unit-of-payment.md)
   * [Token Validation and Staking](usdcrs-tokenomics/token-validation-and-staking.md)
 * [📔 Cros Governance](cros-governance/README.md)
   * [Governing Body](cros-governance/governing-body.md)
