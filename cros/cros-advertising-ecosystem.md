@@ -36,7 +36,7 @@ The Cros platform allows users the flexibility of paying through Fiat currency a
 
 Cros provides advertisers, game publishers, and creators with infrastructure in the form of **APIs and tools**, as well as connectors with popular supply-side and demand-side platforms. Through the use of these APIs, SDKs, and tools built for different gaming platforms and familiar SSPs and DSPs, the ad campaigns and ad inventory can be matched together through programmatic bidding.
 
-Cros robust flexible SDK that enables any Metaverse to power brand advertising and consumer economy across their assets in a fully measurable and intuitive manner. Cros SDK will enable the creators' communities of every metaverse to create, own, and trade SMART ad asset NFTs matching each metaverse theme. These ad assets NFTs act as containers running brands' ad campaign impressions as well as pixels capturing user telematic analytics. Ex a billboard playing Nike video or a hologram displaying Adidas shoes.
+Cros robust flexible SDK that enables any game platform to power brand advertising and consumer economy across their games in a fully measurable and intuitive manner. Cros SDK will enable the creators' communities of every gaming platform to create, own, and trade game ad asset NFTs matching each game context and theme. These ad assets NFTs act as containers running brands' ad campaign impressions as well as pixels capturing user telematic analytics. Ex a billboard playing Nike video or a hologram displaying Adidas shoes.
 
 ### NFTs & Merchandise
 
