@@ -2,7 +2,7 @@
 
 ## Ad Bidding APIs
 
-Cros provides bidding APIs for third-party demand partners to compete for the ad-inventory across metaverses in a set of auctions. The API will also include reporting, traffic and billing information in future.
+Cros provides bidding APIs for third-party demand partners to compete for the ad-inventory across games in a set of auctions. The API will also include reporting, traffic and billing information in future.
 
 The bidding APIs collect bid responses from third party demand partners which are channeled back to the auction engine. Based on the ad-inventory and other parameters, an appropriate auction format is chosen, and a unified auction is run for all the bid responses to determine the most efficient allocation of inventory.
 

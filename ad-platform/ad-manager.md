@@ -17,7 +17,7 @@ The publisher selects the virtual world where they own the property or space. Th
 
 ### Step 2
 
-The publisher buys or rents the available ad-assets (scenes or components of scene) and deploys them on the property in the metaverse. The ad-asset (NFT) ownership is transferred to the publisher, who is now qualified to receive the earnings from the ad impressions generated on the asset.
+The publisher buys or rents the available ad-assets (scenes or components of scene) and deploys them in the game. The ad-asset (NFT) ownership is transferred to the publisher, who is now qualified to receive the earnings from the ad impressions generated on the asset.
 
 ## Advertiser's user interface
 
