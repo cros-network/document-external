@@ -10,6 +10,6 @@ Ad Bidding APIs are designed keeping IAB certified version of the OpenRTB spec i
 
 ## Ad Serve APIs
 
-All deployed Cros ad-assets on different game platforms fetch the advertisements through an ad-serving API. This API is bundled in different configurations based on ad-media, ad-packaging for a native experience on a metaverse and other parameters.
+All deployed Cros ad-assets on different game platforms fetch the advertisements through an ad-serving API. This API is bundled in different configurations based on ad-media, ad-packaging for a native experience in a game and other parameters.
 
-The Ad server APIs make it possible for native experiences to be built by each metaverse such that Cros Ad platform serves the most appropriate ad-media based on environment and user context while the display and interaction is controlled by the game - which could be through a device or any other medium.
+The Ad server APIs make it possible for native experiences to be built by each game or gaming platform such that Cros Ad platform serves the most appropriate ad-media based on environment and user context while the display and interaction is controlled by the game - which could be through a device or any other medium.

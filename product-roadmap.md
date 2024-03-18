@@ -1,6 +1,6 @@
 # 🛣️ Product roadmap
 
-The product roadmap is divided into two core phases. The first phase focuses on building core platform and empowering the publishers, creators and advertisers. The second phase is about decentralization and scaling the ad infrastructure for other metaverses.\
+The product roadmap is divided into two core phases. The first phase focuses on building core platform and empowering the game publishers, creators and advertisers. The second phase is about decentralization and scaling the ad infrastructure for other gaming platforms and virtual worlds.\
 Note that the technology primitives such as modularity, composability, safety & security, and interoperability will be an integral part of the quarterly milestones.
 
 ## Phase 1
