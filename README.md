@@ -1,31 +1,29 @@
 ---
-description: Advertising Infrastructure for Metaverse
+description: Advertising Infrastructure for in-game brand promotions
 ---
 
 # © Cros
 
 ## Introduction
 
-The Metaverse is expected to witness meteoric growth to be a multi-trillion dollar economy, with advertising and commerce fueling this growth, yet till today the metaverse has no infrastructure or standards for advertising and consumer economy.
+The gaming ecosystem is expected to witness meteoric growth to be a multi-trillion dollar economy, with advertising and commerce fueling this growth, yet most of the popular gaming platforms have no infrastructure or standards for advertising and consumer economy except for custom built in-game economy.
 
-This is where CROS comes in, we are building the infrastructure technology layer to connect metaverse with advertisers, in a fully decentralized and automated process.
+This is where CROS comes in, we are building the infrastructure technology layer to connect game developers with advertisers, in a fully decentralized and automated process.
 
-Cros primarily provides cutting-edge technology infrastructure for the metaverses and brands to power advertising and the consumer economy in the metaverse. Similar to how Shopify has built the eCommerce infrastructure to enable brands to sell to customers.
+Cros primarily provides cutting-edge technology infrastructure for the gaming platforms and brands to power advertising and the consumer economy. Similar to how Shopify has built the eCommerce infrastructure to enable brands to sell to customers.
 
-Cros is a web3 platform and protocol, using blockchain smart contracts, built by the engineering leadership from Google Microsoft, Cisco, and others, who have a vision of building the metaverse better, faster and safer.
+Cros is a distributed platform and apps built on an open protocol and using blockchain smart contracts. It is being built by the engineering leaders  from Google Microsoft, Cisco, and others, who have a vision of building an open, better and transparent advertising network connecting all gaming platforms.
 
 ## **Mission**
 
-Cros is making multi-trillion dollar Metaverse economy work for all; eCommerce, Landowners, Creators, Developers, and many more.&#x20;
+Cros is making multi-trillion dollar gaming economy work for all; , Creators, Game Developers, Gaming Platforms, Brands and many more.
 
 ## Market
 
-Cros has rightly positioned itself in the untapped rapidly growing Metaverse and Advertising market, which is a highly fragmented massive market with no market leader.&#x20;
+Cros has rightly positioned itself in the untapped rapidly growing gaming and advertising market, which is a highly fragmented massive market with no market leader.
 
 ## Revenue
 
-Cros collects a small fee of 5-10% over Ads & NFTs revenue transactions within the platform. More information can be found in our Fees section.&#x20;
+Cros collects a small fee of 5-10% over Ads & NFTs revenue transactions within the platform. More information can be found in our Fees section.
 
-
-
-**Note: Cros is currently in its early phases of development, the Whitepaper content could keep changing.**
+**Note: Cros is currently in its early phases of development, the Whitepaper content may go through multiple re.visions**
